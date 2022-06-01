@@ -1,0 +1,19 @@
+#map {
+    height: 600px;
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#titre {
+    text-align: center;
+}
+
+
+#position {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
